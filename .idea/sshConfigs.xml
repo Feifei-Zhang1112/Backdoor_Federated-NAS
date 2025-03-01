@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="180.76.133.193" id="ced02984-6909-4b22-b258-56a776de6a4e" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="36.212.226.176" id="bc0e8441-1e91-4f96-9d69-07296b6e43cc" port="11112" nameFormat="DESCRIPTIVE" username="vipuser" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="210.28.133.13" id="9268d889-b0af-41e9-8feb-4dcc3d28518a" port="21843" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

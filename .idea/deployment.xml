@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="30103" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="11112">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/vipuser/backdoor_fednas_v3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="20872">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/backdoor_fednas_v3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="21385">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/backdoor_fednas_v3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="21843">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/backdoor_fednas_v3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="30101">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/backdoor_fednas_v3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="30103">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/backdoor_fednas_v3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="30105">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/backdoor_fednas_v3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="A100">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/backdoor_fednas_v3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="A100_2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/backdoor_fednas_v3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
