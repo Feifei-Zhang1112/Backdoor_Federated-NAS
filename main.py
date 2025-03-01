@@ -121,7 +121,7 @@ def add_args(parser):
 def init_server(args, comm, rank, size, round_num, attackers, attack, attacker):
     # machine learning experiment tracking platform: https://www.wandb.com/
     tags = args.tags.split(",") if args.tags else []
-    wandb.login(key = "c5de5a0aa7227b82f916269ddd52c0259e02569f")
+    wandb.login(key = "") # complement wandb key
     wandb.init(
         project="backdoor_federated_nas",
         name="FedNAS(d)" + str(args.partition) + "r" + str(args.comm_round) +
